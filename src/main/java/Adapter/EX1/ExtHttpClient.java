@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.EX1;
 
 public interface ExtHttpClient {
 

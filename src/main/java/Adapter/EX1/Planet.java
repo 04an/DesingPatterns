@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.EX1;
 import com.google.gson.annotations.SerializedName;
 
 public class Planet {
